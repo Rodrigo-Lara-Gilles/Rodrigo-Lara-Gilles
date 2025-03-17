@@ -1,8 +1,6 @@
-# Hola, Soy Victor Rodrigo Lara Gilles 👋
+# Hola, Soy Victor Lara Gilles 👋
 
-![Banner Personalizado](https://ruta-a-tu-imagen.com/banner.png)
-
-**"Desarrollador de software apasionado por la tecnología, la innovación y el aprendizaje continuo..."**
+**"Desarrollador de software"**
 
 ---
 
@@ -11,7 +9,6 @@
 - ☁ **Especialista en Cloud Computing y AWS**  
 - 🛠 **Experiencia en desarrollo con React.js y Next.js**  
 - 🔍 **Interesado en Arquitectura de Software**  
-- 📚 **Siempre aprendiendo nuevas tecnologías**  
 
 ---
 
@@ -20,8 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=postgresql)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
 
 ### **Front-End Development**
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
@@ -48,7 +43,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
 
 ---
 
