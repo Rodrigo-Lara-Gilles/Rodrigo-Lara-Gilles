@@ -1,4 +1,4 @@
-# 👋 ¡Hola, Soy Victor Lara Gilles!
+# 👋 <span style="color:#00FF00;">¡Hola, Soy Victor Lara Gilles!</span>
 
 💻 **Desarrollador de Software | Apasionado por la Tecnología** 🚀  
 📍 **Maule, Chile**  
@@ -7,35 +7,37 @@
 
 ---
 
-## ⚙️ GitHub Analytics  
+## ⚙️ <span style="color:#00FF00;">GitHub Analytics</span>  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
 </p>
 
 ---
 
-## 📌 Repositorios Destacados  
+## 📌 <span style="color:#00FF00;">Repositorios Destacados</span>  
 
 <p align="center">
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto3">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto4">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
   </a>
 </p>
 
 ---
 
-## 🚀 Skills  
+## 🚀 <span style="color:#00FF00;">Skills</span>  
 
 ### **Lenguajes de Programación** 🖥️  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)  
@@ -56,28 +58,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
-### **DevOps & Cloud** ☁️  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-
-### **Control de Versiones y Herramientas** 🛠️  
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-
 ---
 
-## 📊 Actividad Reciente  
+## 📊 <span style="color:#00FF00;">Actividad Reciente</span>  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=0D1117" />
 </p>
