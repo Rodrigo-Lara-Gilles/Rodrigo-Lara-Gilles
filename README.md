@@ -6,15 +6,6 @@
 
 ---
 
-## ⚙️ <span style="color:#00FF00;">GitHub Analytics</span>  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-</p>
-
----
-
 ## 📌 <span style="color:#00FF00;">Repositorios Destacados</span>  
 
 <p align="center">
@@ -60,10 +51,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-
-## 📊 <span style="color:#00FF00;">Actividad Reciente</span>  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-</p>
