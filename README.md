@@ -1,72 +1,66 @@
-# Hola, Soy Victor Lara Gilles 👋
+# Hola, Soy Victor Rodrigo Lara Gilles 👋
 
-**"Desarrollador de software"**
+![Banner Personalizado](https://ruta-a-tu-imagen.com/banner.png)
+
+**"Desarrollador de software apasionado por la tecnología, la innovación y el aprendizaje continuo..."** 🚀  
 
 ---
 
 ## 📌 Acerca de mí  
-- 💻 **Desarrollador Web Full Stack**  
-- ☁ **Especialista en Cloud Computing y AWS**  
-- 🛠 **Experiencia en desarrollo con React.js y Next.js**  
-- 🔍 **Interesado en Arquitectura de Software**  
+- 💻 **Desarrollador Web Full Stack** 🖥️  
+- ☁ **Especialista en Cloud Computing y AWS** 🌍  
+- ⚡ **Experiencia en desarrollo con React.js y Next.js** ⚛️  
+- 🏗️ **Interesado en Arquitectura de Software** 🏛️  
 
 ---
 
 ## 🚀 Skills  
-### **Lenguajes de Programación**
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+### **Lenguajes de Programación** 🖥️  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)  
 
-### **Front-End Development**
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+### **Front-End Development** 🎨  
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
-### **Back-End Development**
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+### **Back-End Development** 🔧  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+### **DevOps & Cloud** ☁️  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 
-### **Control de Versiones y Herramientas**
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux)
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=radical)
+### **Control de Versiones y Herramientas** 🛠️  
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ---
 
-## 📄 Mi Currículum  
+## 📊 GitHub Stats 🚀  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=radical)  
+
+---
+
+## 📄 Mi Currículum 📜  
 📄 **[Descargar CV](https://github.com/Rodrigo-Lara-Gilles/Rodrigo-Lara-Gilles/raw/main/CV-Victor-Lara.pdf)**  
 
 ---
 
-## 📩 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/victor-lara-gilles)  
+## 📩 Contacto ✉️  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-lara-gilles)  
 📧 victor.laragilles@gmail.com  
 
 ---
-
-### **📌 Resumen**
-✔ **Perfil técnico optimizado para desarrollador full stack con enfoque en AWS y arquitectura de software**  
-✔ **Habilidades bien organizadas con badges visuales**  
-✔ **CV disponible para descarga directa**  
-✔ **Estadísticas de GitHub visibles y atractivas**  
-
-¡Con este perfil, tu GitHub se verá mucho más profesional y llamativo! 🚀🔥 ¿Quieres agregar alguna sección extra? 😃
