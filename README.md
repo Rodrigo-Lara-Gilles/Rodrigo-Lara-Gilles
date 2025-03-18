@@ -1,20 +1,42 @@
-# Hola, Soy Victor Rodrigo Lara Gilles 👋
+# 👋 ¡Hola, Soy Victor Lara Gilles!
 
-![Banner Personalizado](https://ruta-a-tu-imagen.com/banner.png)
-
-**"Desarrollador de software apasionado por la tecnología, la innovación y el aprendizaje continuo..."** 🚀  
+💻 **Desarrollador de Software | Apasionado por la Tecnología** 🚀  
+📍 **Maule, Chile**  
+📧 **victor.laragilles@gmail.com**  
+🔗 **[LinkedIn](https://linkedin.com/in/victor-lara-gilles)**  
 
 ---
 
-## 📌 Acerca de mí  
-- 💻 **Desarrollador Web Full Stack** 🖥️  
-- ☁ **Especialista en Cloud Computing y AWS** 🌍  
-- ⚡ **Experiencia en desarrollo con React.js y Next.js** ⚛️  
-- 🏗️ **Interesado en Arquitectura de Software** 🏛️  
+## ⚙️ GitHub Analytics  
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📌 Repositorios Destacados  
+
+<p align="center">
+  <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=radical" />
+  </a>
+  <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=radical" />
+  </a>
+  <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto3">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=radical" />
+  </a>
+  <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto4">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Skills  
+
 ### **Lenguajes de Programación** 🖥️  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)  
@@ -48,9 +70,18 @@
 
 ---
 
-## 📊 GitHub Stats 🚀  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=radical)  
+## 📅 Contribuciones en el Último Año  
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Rodrigo-Lara-Gilles&theme=react-dark)
+
+---
+
+## 📊 Actividad Reciente  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=radical" />
+</p>
 
 ---
 
@@ -64,3 +95,5 @@
 📧 victor.laragilles@gmail.com  
 
 ---
+
+ 
