@@ -10,8 +10,8 @@
 ## ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -20,16 +20,16 @@
 
 <p align="center">
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=tokyonight" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=tokyonight" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto3">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=tokyonight" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto4">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=tokyonight" />
   </a>
 </p>
 
@@ -79,8 +79,8 @@
 ## 📊 Actividad Reciente  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=tokyonight" />
 </p>
 
 ---
