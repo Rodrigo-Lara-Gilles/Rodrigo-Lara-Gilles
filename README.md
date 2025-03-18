@@ -43,27 +43,6 @@ Victor Lara Gilles</h1>
  
  ---
  
- ## 📌 <span style="color:#00FF00;">Repositorios Destacados</span>  
- 
- <p align="center">
-   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto1">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-   </a>
-   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto2">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-   </a>
- </p>
- <p align="center">
-   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto3">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-   </a>
-   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto4">
-     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=github_dark&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=0D1117" />
-   </a>
- </p>
- 
- ---
- 
  ## 📊 <span style="color:#00FF00;">Actividad Reciente</span>  
  
  <p align="center">
