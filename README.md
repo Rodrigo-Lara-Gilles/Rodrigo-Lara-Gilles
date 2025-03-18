@@ -61,15 +61,6 @@
 
 ---
 
-#### 🔧 Back-End Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-
----
-
 ## 📊 <span style="color:#00FF00;">Actividad Reciente</span>  
 
 <p align="center">
