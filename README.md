@@ -78,16 +78,3 @@
 </p>
 
 ---
-
-## 📄 Mi Currículum 📜  
-📄 **[Descargar CV](https://github.com/Rodrigo-Lara-Gilles/Rodrigo-Lara-Gilles/raw/main/CV-Victor-Lara.pdf)**  
-
----
-
-## 📩 Contacto ✉️  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-lara-gilles)  
-📧 victor.laragilles@gmail.com  
-
----
-
- 
