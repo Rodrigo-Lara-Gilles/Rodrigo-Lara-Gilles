@@ -10,8 +10,8 @@
 ## ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=green_nur" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=green_nur" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Lara-Gilles&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Lara-Gilles&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -20,16 +20,16 @@
 
 <p align="center">
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=green_nur" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto1&theme=github_dark" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=green_nur" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto2&theme=github_dark" />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto3">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=green_nur" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto3&theme=github_dark />
   </a>
   <a href="https://github.com/Rodrigo-Lara-Gilles/Proyecto4">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=green_nur" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Lara-Gilles&repo=Proyecto4&theme=github_dark" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigo-Lara-Gilles&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=green_nur" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigo-Lara-Gilles&theme=github_dark" />
 </p>
 
 ---
