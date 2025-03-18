@@ -1,4 +1,4 @@
-# 👋 <span style="color:#00FF00;">¡Hola, Soy Victor Lara Gilles!</span>
+# 👋 <h1 align="center" style="color:#00FF00;">¡Hola, Soy Victor Lara Gilles!</span>
  
  💻 **Desarrollador de Software | Apasionado por la Tecnología** 🚀  
  📍 **Maule, Chile**  
